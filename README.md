@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there | こんにちは | 你好
 
 <!--
 **Jimall/Jimall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Shang Jihao, CS Students from [SUSTech](https://www.sustech.edu.cn/en/) in Shenzhen, China.
+
+## My Statisics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=whexy&theme=vue)
