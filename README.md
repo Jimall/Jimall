@@ -19,4 +19,4 @@ I am Shang Jihao, CS Students from [SUSTech](https://www.sustech.edu.cn/en/) in 
 
 ## My Statisics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=whexy&theme=vue)
+![Stats](https://github-readme-stats.vercel.app/api?username=Jimall&theme=vue)
