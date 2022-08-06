@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Shang Jihao, CS Students from [SUSTech](https://www.sustech.edu.cn/en/) in Shenzhen, China.
+I am Jimall, CS Students from [SUSTech](https://www.sustech.edu.cn/en/) in Shenzhen, China.
